@@ -1,0 +1,358 @@
+*{
+margin:0;
+padding:0; 
+}
+
+.barra{
+        margin-top:0px;
+        height:100px;
+        width:100%;
+        background-color:#525252;
+}
+
+.menu{
+	position: absolute;
+	top:54px;
+	color:black;
+	font-family:arial;
+	margin-left:-50px;
+}
+.menu li{
+	display:inline;
+	margin-left:1050px;
+}
+.menu li a{
+	text-decoration:none;
+	color:black;
+}
+.menu li a:hover{
+	color:red;
+}
+
+.menu2{
+	margin-left:1000px;
+	position:absolute;
+	top:67px;
+	color:black;
+	font-family:arial;
+}
+.menu2 li{
+	display:inline;
+	margin-left:2px;
+
+}
+.menu2 li a{
+	text-decoration:none;
+	color:black;
+	
+}
+
+.menu2 li a:hover{
+	color:red;
+}
+
+.barra2{
+        margin-top:300px;
+        height:50px;
+        width:100%;
+        background-color:#525252;
+}
+
+
+
+.barra6{
+        margin-top:409px;
+        height:50px;
+        width:100%;
+        background-color:#525252;
+}
+
+#projetos{
+	position:absolute;
+	color:black;
+	font-family:arial;
+	margin-left:36%;
+	margin-top:310px;
+	font-size:25px;
+}
+
+#fotoinstagram{
+	position:absolute;
+	margin-top:-90px;
+	margin-left:950px;
+	width:40px;
+	height:40px;
+}
+
+#fotofacebook{
+	position:absolute;
+	margin-top:-4%;
+	margin-left:940px;
+	width:62px;
+	height:60px;
+}
+
+#dadospessoais{
+	color:#PRETO;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:5%;
+	margin-top:0.6%;
+	position:absolute;
+}
+#objetivosprofissionais{
+	color:#FFFFFF;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:41%;
+	margin-top:56%;
+	position:absolute;
+}
+#nome{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:5%;
+	position:absolute;
+}
+#idade{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:8%;
+	position:absolute;
+}
+#cidade{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:11%;
+	position:absolute;
+}
+#telefone{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:14%;
+	position:absolute;
+}
+#cursando{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:17%;
+	position:absolute;
+}
+#faculdade{
+	color:preto;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:21%;
+	margin-top:20%;
+	position:absolute;
+}
+	
+#foto0{
+	position:absolute;
+	margin-top:3%;
+	margin-left:50px;
+	width:200px;
+	height:230px;
+}
+
+body{
+    background-color: #eff0d5;
+	margin-bottom:000px;
+}
+.texto1{
+	
+     width:1300px;
+     margin-top:10px;
+     margin-left:50px;
+	 font-size:20px;
+	 font-family:tahoma;
+}
+.texto2{
+	 margin-left:4%;
+     margin-top:10px;
+	 font-size:22px;
+	 font-family:arial;
+	
+}
+
+.texto4{
+	
+     margin-top:12px;
+	 font-size:22px;
+	 font-family:arial;
+	 margin-left:4%;
+}
+
+.menu3 li a:hover{
+	color:red;
+}
+.menu3{
+	position:absolute;
+	margin-top:5%;
+	color:blue;
+	font-family:arial;
+	font-size:30px;
+}
+.menu3 li{
+	display:inline;
+	margin-left:50px;
+
+}
+.menu3 li a{
+	text-decoration:none;
+	color:blue;
+	
+}
+
+.menu3 li a:hover{
+	color:red;
+}
+.menu{
+	position:absolute;
+	margin-top:-2%;
+	margin-bottom:-20px;
+	color:black;
+	font-family:arial;
+	
+}
+}
+.menu3 li a:hover{
+	color:red;
+}
+.menu4{
+	position:absolute;
+	margin-top:8%;
+	color:blue;
+	font-family:arial;
+	font-size:30px;
+}
+.menu4 li{
+	display:inline;
+	margin-left:50px;
+
+}
+
+.menu4 li a:hover{
+	color:red;
+}
+.menu5{
+	position:absolute;
+	margin-top:11%;
+	color:preto;
+	font-family:arial;
+	font-size:30px;
+}
+.menu5 li{
+	display:inline;
+	margin-left:50px;
+
+}
+.menu5 li a{
+	text-decoration:none;
+	color:blue;
+	
+}
+
+.menu5 li a:hover{
+	color:red;
+}
+.experienciasprofissionais{
+	position:absolute;
+	margin-top:-30%;
+	margin-bottom:-20px;
+	color:preto;
+	font-family:arial;
+	margin-left:10%;
+}
+.experienciasprofissionais li{
+	display:inline;
+	margin-left:1px;
+
+}
+.experienciasprofissionais li a{
+	text-decoration:none;
+	border: solid 3px white; 
+	padding: 8px;
+	color: white;
+}
+.conhecimentos{
+	position:absolute;
+	margin-top:-30%;
+	margin-bottom:-20px;
+	color:black;
+	font-family:arial;
+	margin-left:28%;
+}
+.conhecimentos li{
+	display:inline;
+	border: solid 3px white; 
+	padding: 8px;
+}
+.conhecimentos li a{
+	text-decoration:none;
+	color:white;
+}
+.objetivosprofissionais{
+	position:absolute;
+	margin-top:-30%;
+	margin-bottom:-20px;
+	color:white;
+	font-family:arial;
+	margin-left:42%;
+}
+.objetivosprofissionais li{
+	display:inline;
+	margin-left:1px;
+}
+.objetivosprofissionais li a{
+	text-decoration:none;
+	color:white;
+	border: solid 3px white; 
+	padding: 8px;
+}
+.galeria{
+	position:absolute;
+	margin-top:-30%;
+	margin-bottom:-20px;
+	color:white;
+	font-family:arial;
+	margin-left:60%;
+}
+.galeria li{
+	display:inline;
+	margin-left:1px;
+	padding: 10px;
+	
+}
+.galeria li a{
+	text-decoration:none;
+	color:white;
+	border: solid 3px white; 
+	padding: 8px;
+}
+
+#calculadora{
+	position:absolute;
+	color:black;
+	font-family:arial;
+	margin-left:10%;
+	margin-top:5px;
+}
+
+#video1 {
+	margin-top:50px;
+	margin-left:20px;
+	position:absolute;
+	margin-bottom:-20px;
+
+}

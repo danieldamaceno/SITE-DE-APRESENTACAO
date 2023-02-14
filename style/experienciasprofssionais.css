@@ -1,0 +1,48 @@
+*{
+margin:0;
+padding:0; 
+}
+#textoloko{
+	color:#PRETO;
+	font-size:20px;
+	font-family: tahoma;
+	margin-left:5%;
+	margin-top:-30%;
+	position:absolute;
+}
+body{
+    background-color: #eff0d5;
+	margin-bottom:000px;
+}
+.barra{
+        margin-top:0px;
+        height:100px;
+        width:100%;
+        background-color:#525252;
+}
+.barra2{
+        margin-top:90px;
+        height:100px;
+        width:100%;
+        background-color:#525252;
+}
+.texto3{
+     margin-top:10%;
+	 font-size:22px;
+	 font-family:arial;
+	 margin-left:4%;
+}
+.menuvoltar{
+	position:absolute;
+	margin-top:-45%;
+	color:blue;
+	font-family:arial;
+}
+.menuvoltar li{
+	display:inline;
+	margin-left:1090px;
+}
+.menuvoltar li a{
+	text-decoration:none;
+	color:blue;
+}
